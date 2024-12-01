@@ -1,0 +1,11 @@
+SERVICE_PORT=9024
+DB_CONNECTION=root:password@tcp(your_host:3306)/gored_db?parseTime=true
+
+
+# redis Setup
+REDIS_DSN=127.0.0.1:6379
+REDIS_USER=
+REDIS_PASSWORD=
+REDIS_DB=0
+
+
